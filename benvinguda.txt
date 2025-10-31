@@ -4,3 +4,4 @@ Iker
 (C) Benvinguda a la branca02 Iker
 (D) Modificació 02 Main Iker
 (E) Afegim imatge a branca01 Iker
+(F) Afegim imatge a branca02 Iker
